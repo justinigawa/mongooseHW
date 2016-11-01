@@ -1,0 +1,52 @@
+body {
+    background: url('http://www.motionbackgroundsforfree.com/wp-content/uploads/2012/06/Screen-shot-2012-06-28-at-11.14.46-AM.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 5%;
+}
+
+#articles {
+    width: 60%;
+    height: 700px;
+    display: inline-block;
+    overflow: auto;
+}
+
+#notes {
+    width: 30%;
+    float: right;
+}
+
+textarea, input {
+    display: block;
+    width: 100%;
+    background-color: #FCF5C7;
+}
+
+input {
+    height: 36px;
+    font-size: 24px;
+}
+
+textarea {
+    height: 200px;
+    font-size: 18px;
+}
+
+#jumbo{
+    margin-top: 30px;
+    color: black;
+	background-color: rgba(255,255,255, 0.5);
+}
+
+h1, h2{
+    text-align: center;
+}
