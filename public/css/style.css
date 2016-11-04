@@ -1,5 +1,5 @@
 body {
-    background: url('http://www.motionbackgroundsforfree.com/wp-content/uploads/2012/06/Screen-shot-2012-06-28-at-11.14.46-AM.png') no-repeat center center fixed;
+    background: url('http://imgview.info/download/20150425/nba-background-1024x640.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -36,17 +36,26 @@ input {
     font-size: 24px;
 }
 
+#titleinput {
+    color: black;
+}
+
 textarea {
     height: 200px;
     font-size: 18px;
+    color: black;
 }
 
-#jumbo{
+#jumbo, #jumbo2{
     margin-top: 30px;
     color: black;
-	background-color: rgba(255,255,255, 0.5);
+	background-color: rgba(255,255,255, 0.6);
 }
 
 h1, h2{
     text-align: center;
+}
+
+#savenote {
+    color: black;
 }
